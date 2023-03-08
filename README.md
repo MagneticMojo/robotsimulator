@@ -1,10 +1,15 @@
-# robotsimulator
-# Author: Björn Forsberg 
+# Robot Simulator
+Author: Björn Forsberg 
 
-# Input to main: Program arguments containing file path to file with commands. 
+# Input to main: 
+Program arguments containing file path to file with commands. 
 
-# Classes provided in src/main/java/
-# Unit test classes provided in src/test/java/ 
-# Test Data is provided in src/main/resources/
-# Dependencies in pom.xml
+# Classes 
+Provided in src/main/java/
+# Unit test classes
+Provided in src/test/java/ 
+# Test Data 
+Provided in src/main/resources/
+# Dependencies 
+Provided in pom.xml
 
